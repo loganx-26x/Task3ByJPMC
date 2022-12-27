@@ -2,7 +2,7 @@
 Task 3 of JPMC's Forage program has been successfully completed
 
 
-Explanation:
+Explanation:                                                                                                       
 As we see, for trading analysis and to stock price monitor, given that traders have an enormous amount of information
 and data on their UI environment, we have to give them several tools to make the trading task easier for them and to 
 improve their performance so as to improve the company's revenue accordingly.
